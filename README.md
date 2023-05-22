@@ -2,7 +2,7 @@
 
 ![](https://usagif.com/wp-content/uploads/2021/4fh5wi/welcome-15.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F06B61&width=435&lines=Hi+there!+My+name+is+Feu+Matthew+Her+and+I+am+a+Front-End+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F06B61&width=435&lines=Hi+there!+My+name+is+Feu.)](https://git.io/typing-svg)
 
 <h4 align="center">A highly adaptable front-end developer that can thrive under pressure and excel in tackling difficult challenges. With a comprehensive skill set and a software development mindset, I am well-equipped to meet the demands and expectations of a Full Stack Developer. I am open to new opportunities to contribute to meaningful projects and make a significant impact in the field. </h1>
 
