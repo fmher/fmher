@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&pause=1000&color=f06b61&center=true&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on enhancing my portfolio.<br>👯 I’m looking to collaborate on just about anything!<br>🤝 I’m looking for help with how to become a better Front-End Engineer.<br>🌱 I’m currently learning more about CSS animation to create dynamic and engaging websites.<br>💬 Ask me about anything!<br>⚡ Fun fact, I am bootcamp graduate who wants to break into tech!
+🔭 I’m currently working on enhancing my portfolio.<br>👯 I’m looking to collaborate on just about anything!<br>🤝 I’m looking for help with how to become a better Front-End Engineer.<br>🌱 I’m currently learning more about CSS animation to create dynamic and engaging websites.<br>💬 Ask me about anything! Email: **feumatthhewher2@gmail.com** <br>✔️ All of my projects and resume are here! https://feu-matthew-her.vercel.app/ <br>⚡ Fun fact, I am bootcamp graduate who wants to break into tech!
 
 
 ## 🌐 Socials:
