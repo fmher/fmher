@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="[https://rm.up.railway.app/](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fprogramemes&psig=AOvVaw17LE58peXArg_0Zcz5PMGU&ust=1684876406996000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODe8frrif8CFQAAAAAdAAAAABAE)" width="512px"/>
+<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fprogramemes&psig=AOvVaw17LE58peXArg_0Zcz5PMGU&ust=1684876406996000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODe8frrif8CFQAAAAAdAAAAABAE)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fmher&icon=0&color=0)](https://visitcount.itsvg.in)
