@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&pause=1000&color=f06b61&center=true&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
 
+<h4 align="center">A highly adaptable front-end developer that can thrive under pressure and excel in tackling difficult challenges. With a comprehensive skill set and a software development mindset, I am well-equipped to meet the demands and expectations of a Full Stack Developer. I am open to new opportunities to contribute to meaningful projects and make a significant impact in the field. </h1>
+
 # 💫 About Me:
 🔭 I’m currently working on enhancing my portfolio.<br>👯 I’m looking to collaborate on just about anything!<br>🤝 I’m looking for help with how to become a better Front-End Engineer.<br>🌱 I’m currently learning more about CSS animation to create dynamic and engaging websites.<br>💬 Ask me about anything! Email: **feumatthhewher2@gmail.com** <br>✔️ All of my projects and resume are here! https://feu-matthew-her.vercel.app/ <br>⚡ Fun fact, I am bootcamp graduate who wants to break into tech!
 
