@@ -1,11 +1,14 @@
 <!-- ### Hi there 👋 -->
 
-![](https://usagif.com/wp-content/uploads/2021/4fh5wi/welcome-15.gif)
+<p align="center">
+  <img src="https://usagif.com/wp-content/uploads/2021/4fh5wi/welcome-15.gif">
+</p>
 
 
 <!-- ![standard (1)](https://github.com/fmher/fmher/assets/115588595/b764b22a-0676-4353-b2a2-15d5cb4551ca) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F06B61&center=true&width=600&lines=Hi!+My+name+is+Feu+Matthew+Her.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72E52D4&center=true&vCenter=true&width=574&height=100&lines=Hi!+My+name+is+Feu+Matthew+Her.)](https://git.io/typing-svg)
+
 
 <h2 align="center">A highly adaptable front-end developer that can thrive under pressure and excel in tackling difficult challenges. With a comprehensive skill set and a software development mindset, I am well-equipped to meet the demands and expectations of a Full Stack Developer. I am open to new opportunities to contribute to meaningful projects and make a significant impact in the field. </h1>
 
