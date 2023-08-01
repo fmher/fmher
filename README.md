@@ -16,7 +16,15 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on enhancing my portfolio.<br>👯 I’m looking to collaborate on just about anything!<br>🤝 I’m looking for help with how to become a better Front-End Engineer.<br>🌱 I’m currently learning more about CSS animation to create dynamic and engaging websites.<br>💬 Ask me about anything! Email: **feumatthhewher2@gmail.com** <br>✔️ All of my projects and resume are here! https://fmher.github.io/react-portfolio/ <br>⚡ Fun fact, I am bootcamp graduate who wants to break into tech!
+🔭 I’m currently working on a new project.<br>
+👯 I’m looking to collaborate on just about anything!<br>
+🤝 I’m looking for help with how to become a better Front-End Engineer.<br>
+🌱 I’m currently learning more about CSS animation to create dynamic and engaging websites.<br>
+💬 Ask me about anything! Email: **feumatthhewher2@gmail.com** <br>
+✔️ All of my projects are here! https://fmher.github.io/react-portfolio/ <br> 
+📄 My [Resume](https://github.com/fmher/fmher/files/12224308/2023-resume-tech.pdf)<br>
+⚡ Fun fact, I am bootcamp graduate who wants to break into tech!
+
 
 
 ## 🌐 Socials:
