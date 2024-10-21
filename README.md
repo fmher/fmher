@@ -22,7 +22,7 @@
 🌱 I’m currently learning more about CSS animation to create dynamic and engaging websites.<br>
 💬 Ask me about anything! Email: **feumatthewher2@gmail.com** <br>
 ✔️ All of my projects are here! https://fmher.github.io/react-portfolio/ <br> 
-📄 My [Resume](https://github.com/fmher/fmher/files/12285068/Updated-tech-resume2023.pdf)<br>
+📄 My [Resume](https://github.com/user-attachments/files/17467888/2025-resume.pdf)<br>
 ⚡ Fun fact, I am bootcamp graduate who wants to break into tech!
 
 
